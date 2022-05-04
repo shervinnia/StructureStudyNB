@@ -7,3 +7,9 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: math
+- file: optical-transforms-and-strucfact-conv
+- file: symmetry
+- file: diffraction-from-lattice
+- file: group-symmetry-and-rotmatrx
+- file: phasing
